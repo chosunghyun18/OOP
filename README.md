@@ -9,11 +9,13 @@ https://github.com/chosunghyun18/java-baseball-study
 
 https://github.com/chosunghyun18/java-lotto-study
 
-## Java Interface 를 활용한 , 다리 건너기 게임
+## Interface 를 활용한 , 다리 건너기 게임
 
 https://github.com/chosunghyun18/java-bridge-study
 
+## 메뉴 추천 프로그램
 
+https://github.com/chosunghyun18/java-menu-study
 
 
 
