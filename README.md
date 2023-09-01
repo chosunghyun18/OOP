@@ -13,7 +13,7 @@ https://github.com/chosunghyun18/java-lotto-study
 
 https://github.com/chosunghyun18/java-bridge-study
 
-## 메뉴 추천 프로그램
+## 메뉴 추천 프로그램 , 헥사고날 아키텍처 적용 예제
 
 https://github.com/chosunghyun18/java-menu-study
 
