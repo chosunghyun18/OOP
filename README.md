@@ -1,6 +1,8 @@
 # OOP
 OOP study reopsitory
 
+우아한 테크 코스 5기 프리코스를 다시 풀어본 저장소로 OOP 학습과 설계에 대한 고민과 실습에 대한 저장소입니다.
+
 ## Abstract Class 를 이용한 게임 분리, 자바 야구 게임 
 
 https://github.com/chosunghyun18/java-baseball-study
