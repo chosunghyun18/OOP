@@ -21,6 +21,12 @@ https://github.com/chosunghyun18/java-bridge-study
 https://github.com/chosunghyun18/java-menu-study
 
 
+우테코 프리코스 6기 지원시 작성했던 코드
 
+## TDD 를 이용한 구현 ,VO   야구 게임 
+https://github.com/chosunghyun18/java-baseball-6
+
+## TDD 를 이용한 구현 , Sealed / mvc   자동차 게임 
+https://github.com/chosunghyun18/java-racingcar-6
 
 
