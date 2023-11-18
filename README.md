@@ -2,12 +2,14 @@
 ----
 
 우아한 테크 코스 6기 프리코스 코드
-
 ## TDD 를 이용한 구현 ,VO   야구 게임 
 https://github.com/chosunghyun18/java-baseball-6
 
 ## TDD 를 이용한 구현 , Sealed / mvc   자동차 게임 
 https://github.com/chosunghyun18/java-racingcar-6
+
+## 크리스마스 미션 , 추상화의 활용
+https://github.com/chosunghyun18/java-christmas-6-chosunghyun18/pull/1
 
 ----
 
