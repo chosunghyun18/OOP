@@ -5,6 +5,9 @@
 ## TDD 를 이용한 구현 ,VO   야구 게임 
 https://github.com/chosunghyun18/java-baseball-6
 
+## 로또 게임
+https://github.com/chosunghyun18/java-lotto-6
+
 ## TDD 를 이용한 구현 , Sealed / mvc   자동차 게임 
 https://github.com/chosunghyun18/java-racingcar-6
 
